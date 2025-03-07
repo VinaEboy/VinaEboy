@@ -2,9 +2,6 @@
 
 💻 Estudante de Ciência da Computação na UFPR  
 👨‍🏫 Professor de Combinatória N3 no POTI/UFPR (2024-2025)  
-
-<br>
-
 💡 Interesse em **grafos, otimização e inteligência artificial**  
 
 ## 🏫 Instituições e Projetos  
@@ -19,9 +16,12 @@
 - 🥇 OBMEP2023 (regional)  
 - 🥈 OBMEP2023 (nacional)  
 - Aluno da **Turma Honors** de Cálculo 1 e Cálculo 2  
-
+- Ex-membro da empresa júnior **Ecomp**
+  
 <p align="center">
   <img src="honors_ufpr.jpg" alt="Turma Honors" width="120">
+  <img src="OPRM.jpeg" alt="OPRM 2023" width="120">
+  <img src="obmep2023.png" alt="OBMEP 2023" width="120">
 </p>
 
 ## 🔧 Tecnologias e Ferramentas  
@@ -31,14 +31,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="center">
-  <img src="logisim.png" alt="Logisim" width="120">
-</p>
-
 ## 📫 Contato  
-<p align="center">
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-gregorio-fucci-11356b354/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-gregorio-fucci-11356b354/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
