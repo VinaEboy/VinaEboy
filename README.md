@@ -7,8 +7,8 @@
 ## 🏫 Instituições e Projetos  
 
 <p align="center">
-  <img src="POTI.png" alt="POTI" width="120">
-  <img src="ufpr.jpg" alt="UFPR" width="120">
+  <img src="POTI.png" alt="POTI" height="100">
+  <img src="ufpr.jpg" alt="UFPR" height="100">
 </p>
 
 ## 🚀 Curiosidades sobre mim  
@@ -19,12 +19,13 @@
 - Ex-membro da empresa júnior **Ecomp**
   
 <p align="center">
-  <img src="honors_ufpr.jpg" alt="Turma Honors" width="120">
-  <img src="OPRM.jpeg" alt="OPRM 2023" width="120">
-  <img src="obmep2023.png" alt="OBMEP 2023" width="120">
+  <img src="honors_ufpr.jpg" alt="Turma Honors" height="100">
+  <img src="OPRM.jpeg" alt="OPRM 2023" height="100">
+  <img src="obmep2023.png" alt="OBMEP 2023" height="100">
 </p>
 
-## 🔧 Tecnologias e Ferramentas  
+## 🔧 Tecnologias e Ferramentas
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
