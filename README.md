@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Gregorio
 
 💻 Estudante de Ciência da Computação na UFPR  
+🧑‍🔬 Aluno de Iniciação Científica do laboratório VRI, estudos em Visão Computacional, Processamento de Imagem e Reconhecimento Facial
 👨‍🏫 Professor de Combinatória N3 no POTI/UFPR (2024-2025)  
-💡 Interesse em **grafos, otimização e inteligência artificial**  
 
 ## 🏫 Instituições e Projetos  
 
