@@ -16,7 +16,6 @@
 - Monitor de Cálculo 2 em 2025/1 e 2025/2.
 - Ex-membro da empresa júnior **Ecomp**.
 - Jogo favorito: Megaman X4.
-- Série favorita: Dexter.
 - Anime favorito: Evangelion.
 - Comida favorita: Sushi.
 
